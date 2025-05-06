@@ -60,26 +60,15 @@ I am passionate about building projects that translate real-world problems into 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/STM32CubeIDE_Logo.png" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/MPLAB_X_IDE_Logo.png" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" />
-</p>
-
-### EDA & Simulation  
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Cadence_Design_Systems_logo.svg" width="80" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Xilinx_Logo.svg" width="80" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/ModelSim_logo.png" width="80" />
 </p>
 
 ### Libraries  
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Scikit_learn_logo_small.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" />
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="100" />
-  <img src="https://scipy.org/_static/scipylogo.svg" width="40" />
 </p>
 
 ---
