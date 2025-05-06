@@ -26,35 +26,48 @@ Final-year undergraduate at SSN College of Engineering, specializing in Electron
 - **Digital Design & Simulation** – VLSI, Verilog, MATLAB simulations, control systems
 
 ---
+## Core Tools & Technologies
 
-## Core Skills
+<p align="left">
+  <!-- Programming Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/verilog/verilog-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" />
+</p>
 
-### Programming  
-`C` `C++` `Python` `MATLAB` `Java` `Verilog` `HTML` `CSS`
+<p align="left">
+  <!-- Tools & Platforms -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/STM32_CubeIDE_Logo.svg/2560px-STM32_CubeIDE_Logo.svg.png" height="32" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Jupyter_logo.svg" height="32" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/e/e6/MPLAB_X_IDE_Logo.png" height="32" />
+</p>
 
-### Tools & Platforms  
-`Git` `Linux` `Arduino IDE` `STM32CubeIDE` `MPLAB X` `VS Code` `Jupyter`
+<p align="left">
+  <!-- EDA / Simulation -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/ModelSim_Logo.png" height="32" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Cadence_logo.svg" height="32" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Xilinx_logo.svg/1280px-Xilinx_logo.svg.png" height="32" />
+</p>
 
-### EDA / Simulation  
-`MATLAB` `Xilinx ISE/Vivado` `Cadence Virtuoso` `picSim` `ModelSim`
+<p align="left">
+  <!-- Libraries -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" height="32" />
+</p>
 
-### Libraries  
-`NumPy` `pandas` `scikit-learn` `Matplotlib` `Seaborn` `SciPy`
-
-### Hardware Platforms  
-`Arduino` `Raspberry Pi` `STM32` `ESP8266`  
-Sensor integration | ADC/DAC | I2C/SPI/UART protocols
-
----
-
-## Selected Highlights
-
-- **Panic Detection System** – ML-powered mental health safety tool with geolocation; grant-funded
-- **Adaptive Hearing Aids** – Real-time signal enhancement using noise cancellation
-- **Access Management System** – IoT-based security with hardware-controlled authorization
-- **Visual SLAM Poster** – Combined sparse + dense SLAM for 3D reconstruction; presented at OSICON’25 (CSIR-NIO, Goa)
-- **Shortlisted for Citi Bank** – Developed AI model to forecast credit score impact
-- 
 ---
 
 ## Tech Stack
