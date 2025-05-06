@@ -67,9 +67,9 @@ I am passionate about building projects that translate real-world problems into 
 
 ### EDA & Simulation  
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Cadence_logo.svg" width="80" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Xilinx_logo.svg" width="80" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/2/21/ModelSim_Logo.png" width="80" />
+  <img src="https://raw.githubusercontent.com/Karth30/assets/main/cadence.png" width="80" />
+  <img src="https://raw.githubusercontent.com/Karth30/assets/main/vivado.png" width="80" />
+  <img src="https://raw.githubusercontent.com/Karth30/assets/main/modelsim.png" width="80" />
 </p>
 
 ### Libraries  
