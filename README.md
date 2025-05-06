@@ -1,5 +1,5 @@
 <h1 align="center">Karthayani T S</h1>
-<p align="center"><strong>Electronics & Communication | Embedded Systems | Machine Learning | IoT</strong></p>
+<p align="center"><strong>ECE Undergraduate | Enthusiast in Embedded Systems, Machine Learning & IoT</strong></p>
 
 <p align="center">
   <a href="https://github.com/Karth30">GitHub</a> •
@@ -41,7 +41,7 @@ I am passionate about building projects that translate real-world problems into 
 
 ---
 
-## 🛠️ Core Tools & Technologies
+## Tools & Technologies
 
 ### Languages
 <p align="left">
@@ -50,7 +50,7 @@ I am passionate about building projects that translate real-world problems into 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/verilog/verilog-original.svg" height="32" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Verilog_logo.png" height="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" />
 </p>
@@ -61,17 +61,18 @@ I am passionate about building projects that translate real-world problems into 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/STM32_CubeIDE_Logo.svg" height="32" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/e/e6/MPLAB_X_IDE_Logo.png" height="32" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Jupyter_logo.svg" height="32" />
+  <img src="https://i.imgur.com/30yDF47.png" height="32" title="STM32CubeIDE" />
+  <img src="https://i.imgur.com/J6EAM7x.png" height="32" title="MPLAB X IDE" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Jupyter_logo.svg" height="32" title="Jupyter" />
 </p>
 
 ### EDA & Simulation
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Cadence_logo.svg" height="32" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Xilinx_logo.svg" height="32" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/ModelSim_Logo.png" height="32" />
+  <img src="https://i.imgur.com/xk9OBpM.png" height="32" title="LTSpice" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Xilinx_Logo.svg" height="32" title="Xilinx Vivado" />
+  <img src="https://i.imgur.com/fMPR0Dt.png" height="32" title="MATLAB Simulink" />
 </p>
+
 
 ### Libraries
 <p align="left">
@@ -79,6 +80,28 @@ I am passionate about building projects that translate real-world problems into 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" height="32" />
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" height="32" />
 </p>
+
+---
+
+## Let's Connect!
+
+Feel free to reach out for collaboration, project ideas, or just a tech conversation!
+
+<p align="center">
+  <a href="https://github.com/Karth30">
+    <img src="https://img.shields.io/badge/GitHub-Karth30-181717?style=flat&logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/karthayani-t-s-4793b0262">
+    <img src="https://img.shields.io/badge/LinkedIn-Karthayani%20T%20S-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="mailto:karthayanisampath@gmail.com">
+    <img src="https://img.shields.io/badge/Email-karthayanisampath%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center"><em>"Building purposeful tech from silicon to systems :)"</em></p>
