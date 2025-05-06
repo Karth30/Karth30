@@ -12,7 +12,7 @@
 ## Profile
 
 Final-year undergraduate at SSN College of Engineering, specializing in Electronics and Communication Engineering.  
-My interests lie at the intersection of embedded systems, IoT, and machine learning.  
+My interests lie at the intersection of embedded systems, IoT, and machine learning. 
 I am passionate about building projects that translate real-world problems into efficient and scalable solutions.
 
 ---
