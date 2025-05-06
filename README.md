@@ -74,15 +74,14 @@ I am passionate about building projects that translate real-world problems into 
 ---
 
 ## Let's Connect!
-
 <p align="center">
-  <a href="https://github.com/Karth30">
+  <a href="https://github.com/Karth30" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/GitHub-Karth30-181717?style=flat&logo=github" />
   </a>
-  <a href="https://linkedin.com/in/karthayani-t-s-4793b0262">
+  <a href="https://linkedin.com/in/karthayani-t-s-4793b0262" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-Karthayani%20T%20S-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="mailto:karthayanisampath@gmail.com">
+  <a href="mailto:karthayanisampath@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Email-karthayanisampath%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
