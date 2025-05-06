@@ -45,41 +45,41 @@ I am passionate about building projects that translate real-world problems into 
 
 ### Languages  
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  ![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg)  
+  ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg)  
+  ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)  
+  ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)  
+  ![MATLAB](https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png)  
+  ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)  
+  ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)  
 </p>
 
 ### Platforms & IDEs  
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/STM32CubeIDE_Logo.png" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/e/e6/MPLAB_X_IDE_Logo.png" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" />
+  ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)  
+  ![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg)  
+  ![Arduino](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg)  
+  ![VSCode](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)  
+  ![STM32CubeIDE](https://upload.wikimedia.org/wikipedia/commons/7/7e/STM32CubeIDE_Logo.png)  
+  ![MPLAB](https://upload.wikimedia.org/wikipedia/en/e/e6/MPLAB_X_IDE_Logo.png)  
+  ![Jupyter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg)  
 </p>
 
 ### EDA & Simulation  
 <p align="left">
-  <img src="https://seeklogo.com/images/C/cadence-logo-0D4E0F8D9F-seeklogo.com.png" width="80" alt="Cadence Logo" />
-  <img src="https://seeklogo.com/images/X/xilinx-logo-0D4E0F8D9F-seeklogo.com.png" width="80" alt="Xilinx Vivado Logo" />
-  <img src="https://raw.githubusercontent.com/htminuslab/Modelsim-Unicorn/main/modelsim_logo.png" width="80" alt="ModelSim Logo" />
+  ![Cadence](https://seeklogo.com/images/C/cadence-logo-0D4E0F8D9F-seeklogo.com.png)  
+  ![Xilinx Vivado](https://seeklogo.com/images/X/xilinx-logo-0D4E0F8D9F-seeklogo.com.png)  
+  ![ModelSim](https://raw.githubusercontent.com/htminuslab/Modelsim-Unicorn/main/modelsim_logo.png)  
 </p>
 
 ### Libraries  
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" />
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="100" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" width="40" />
+  ![Numpy](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg)  
+  ![Pandas](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg)  
+  ![Scikit-learn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg)  
+  ![Matplotlib](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg)  
+  ![Seaborn](https://seaborn.pydata.org/_static/logo-wide-lightbg.svg)  
+  ![Scipy](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg)  
 </p>
 
 ---
