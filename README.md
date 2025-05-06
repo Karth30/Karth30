@@ -74,9 +74,9 @@ I am passionate about building projects that translate real-world problems into 
 
 ### Libraries  
 <p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Scikit_learn_logo_small.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Scikit_learn_logo_small.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" />
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="100" />
   <img src="https://scipy.org/_static/scipylogo.svg" width="40" />
