@@ -1,12 +1,6 @@
 <h1 align="center">Karthayani T S</h1>
 <p align="center"><strong>ECE Undergraduate | Enthusiast in Embedded Systems, Machine Learning & IoT</strong></p>
 
-<p align="center">
-  <a href="https://github.com/Karth30">GitHub</a> •
-  <a href="https://linkedin.com/in/karthayani-t-s-4793b0262">LinkedIn</a> •
-  <a href="mailto:karthayanisampath@gmail.com">Email</a>
-</p>
-
 ---
 
 ## Profile
