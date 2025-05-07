@@ -13,13 +13,9 @@ I am passionate about building projects that translate real-world problems into 
 
 ## GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Karth30&show_icons=true&bg_color=000000&text_color=ffffff&icon_color=00ffc8&title_color=00ffc8&cache_seconds=3600" height="180"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Karth30&show_icons=true&bg_color=000000&text_color=ffffff&icon_color=00ffc8&title_color=00ffc8&cache_seconds=3600" height="180"/>
+</p>
 
 ---
 
