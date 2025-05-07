@@ -16,10 +16,10 @@ I am passionate about building projects that translate real-world problems into 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Karth30&show_icons=true&theme=default" height="180"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Karth30&show_icons=true&bg_color=000000&text_color=ffffff&icon_color=00ffc8&title_color=00ffc8&cache_seconds=3600" height="180"/>
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Karth30&theme=default" height="180"/>
+      <img src="https://streak-stats.demolab.com?user=Karth30&theme=dark&background=000000&ring=00ffc8&fire=00ffc8&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=00ffc8" height="180"/>
     </td>
   </tr>
 </table>
@@ -69,13 +69,13 @@ I am passionate about building projects that translate real-world problems into 
 
 ## Let's Connect!
 <p align="center">
-  <a href="https://github.com/Karth30" style="text-decoration: none;">
+  <a href="https://github.com/Karth30">
     <img src="https://img.shields.io/badge/GitHub-Karth30-181717?style=flat&logo=github" />
   </a>
-  <a href="https://linkedin.com/in/karthayani-t-s-4793b0262" style="text-decoration: none;">
+  <a href="https://linkedin.com/in/karthayani-t-s-4793b0262">
     <img src="https://img.shields.io/badge/LinkedIn-Karthayani%20T%20S-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="mailto:karthayanisampath@gmail.com" style="text-decoration: none;">
+  <a href="mailto:karthayanisampath@gmail.com">
     <img src="https://img.shields.io/badge/Email-karthayanisampath%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
