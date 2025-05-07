@@ -18,9 +18,6 @@ I am passionate about building projects that translate real-world problems into 
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Karth30&show_icons=true&bg_color=000000&text_color=ffffff&icon_color=00ffc8&title_color=00ffc8&cache_seconds=3600" height="180"/>
     </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=Karth30&theme=dark&background=000000&ring=00ffc8&fire=00ffc8&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=00ffc8" height="180"/>
-    </td>
   </tr>
 </table>
 
