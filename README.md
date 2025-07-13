@@ -41,7 +41,8 @@ I am passionate about building projects that translate real-world problems into 
 
 ## Technical Focus Areas
 
-- **Embedded Systems Development** – Microcontrollers (STM32, Arduino, PIC, ESP8266), sensor integration  
+- **Embedded Systems Development** – Microcontrollers (STM32, Arduino, PIC, ESP8266), sensor integration
+- **Web Development** - React.js, Node.js, Express.js, Postman, REST APIs, JWT Authentication
 - **IoT & Edge Computing** – Wireless communication, smart devices  
 - **Applied Machine Learning** – Classical ML, signal-based prediction  
 - **Digital Design & Simulation** – VLSI, Verilog, MATLAB simulations, control systems
