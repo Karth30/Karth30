@@ -28,6 +28,10 @@ I am passionate about building projects that translate real-world problems into 
 </p>
 
 <p align="center">
+  <img src="https://leetcard.jacoblin.cool/Karthayani?theme=dark&font=source_code_pro&ext=activity" alt="LeetCode Stats" />
+</p>
+
+<p align="center">
   <a href="https://leetcode.com/u/Karthayani/">
     <img src="https://assets.leetcode.com/static_assets/others/lg2550.png" width="140" alt="LeetCode 50 Day Streak Badge" />
   </a>
