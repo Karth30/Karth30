@@ -29,7 +29,7 @@ I am passionate about building projects that translate real-world problems into 
 
 <p align="center">
   <a href="https://leetcode.com/u/Karthayani/">
-    <img src="https://img.shields.io/badge/LeetCode-Karthayani-000000?style=flat&logo=leetcode&logoColor=00ffc8&labelColor=000000&color=000000" />
+    <img src="https://assets.leetcode.com/static_assets/others/lg2550.png" width="140" alt="LeetCode 50 Day Streak Badge" />
   </a>
 </p>
 
