@@ -17,12 +17,13 @@ I am passionate about building projects that translate real-world problems into 
   <img src="https://github-readme-stats.vercel.app/api?username=Karth30&show_icons=true&bg_color=000000&text_color=ffffff&icon_color=00ffc8&title_color=00ffc8&cache_seconds=3600" height="180"/>
 </p>
 ---
+
 ## Leetcode Stats
 
 <p align="center">
   <a href="https://leetcode.com/u/Karthayani/">
-    <img src="https://img.shields.io/badge/LeetCode-Karthayani-orange?style=flat&logo=leetcode&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/LeetCode-Karthayani-000000?style=flat&logo=leetcode&logoColor=00ffc8&labelColor=000000&color=000000" />
+</a>
 </p>
 
 <p align="center">
