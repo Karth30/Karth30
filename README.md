@@ -1,12 +1,12 @@
 <h1 align="center">Karthayani T S</h1>
-<p align="center"><strong>ECE Undergraduate | Enthusiast in Embedded Systems, Machine Learning & IoT</strong></p>
+<p align="center"><strong>ECE Undergraduate | Enthusiast in Web Development, Machine Learning & IoT</strong></p>
 
 ---
 
 ## Profile
 
 Final-year undergraduate at SSN College of Engineering, specializing in Electronics and Communication Engineering.  
-My interests lie at the intersection of embedded systems, IoT, and machine learning.  
+My interests lie at the intersection of  IoT, Machine learning and Web Development.  
 I am passionate about building projects that translate real-world problems into efficient and scalable solutions.
 
 ---
