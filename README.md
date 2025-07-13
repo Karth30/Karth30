@@ -23,12 +23,12 @@ I am passionate about building projects that translate real-world problems into 
 
 <p align="center">
   <a href="https://leetcode.com/u/Karthayani/">
-    <img src="https://img.shields.io/badge/LeetCode-Karthayani-000000?style=flat&logo=leetcode&logoColor=00ffc8&labelColor=00ffc8&color=000000 height="180" />
-</a>
+    <img src="https://img.shields.io/badge/LeetCode-Karthayani-000000?style=flat&logo=leetcode&logoColor=00ffc8&labelColor=000000&color=000000" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Karthayani?theme=light&font=source_code_pro&ext=activity" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Karthayani?theme=dark&font=source_code_pro&ext=activity" alt="LeetCode Stats" />
 </p>
 
 ---
