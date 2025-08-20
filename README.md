@@ -95,4 +95,4 @@ I am passionate about building projects that translate real-world problems into 
 
 ---
 
-<p align="center"><em>"Building purposeful tech from silicon to systems :)"</em></p>
+
